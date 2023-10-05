@@ -1,0 +1,17 @@
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventario.AccesoDat.deps.json
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventario.AccesoDat.dll
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventario.AccesoDat.pdb
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventario.Utilidades.dll
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventarios.Modelos.dll
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventario.Utilidades.pdb
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\bin\Debug\net6.0\SistemaInventarios.Modelos.pdb
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.csproj.AssemblyReference.cache
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.AssemblyInfoInputs.cache
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.AssemblyInfo.cs
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.csproj.CoreCompileInputs.cache
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.csproj.CopyComplete
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.dll
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\refint\SistemaInventario.AccesoDat.dll
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\SistemaInventario.AccesoDat.pdb
+C:\Users\algt0\OneDrive\Imágenes\PIA\SistemaInventario\SistemaInventario.AccesoDat\obj\Debug\net6.0\ref\SistemaInventario.AccesoDat.dll

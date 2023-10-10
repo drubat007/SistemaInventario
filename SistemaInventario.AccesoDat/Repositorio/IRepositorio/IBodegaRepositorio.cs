@@ -9,6 +9,6 @@ namespace SistemaInventario.AccesoDat.Repositorio.IRepositorio
 {
     public interface IBodegaRepositorio : IRepositorio<Bodega>
     {
-        void Actuaizar(Bodega bodega);
+        void Actualizar(Bodega bodega);
     }
 }
